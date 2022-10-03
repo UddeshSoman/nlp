@@ -1,4 +1,3 @@
-This demo is derieved from Kaggle demo available at this link.
-Follow the same link for data set.
-
-https://www.kaggle.com/code/tanyadayanand/pos-tagging-using-rnn
+This demo is derieved by Himanshu Sharma Chaeck out The AI Club by Shailendra Kader for the video.
+Follow this link for data set.
+https://www.kaggle.com/datasets/mayurdalvi/sonar-mine-dataset
